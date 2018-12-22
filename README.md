@@ -1,2 +1,2 @@
 # ubuntu-preseed-personal
-Automating installation of Ubuntu 18.04 LTS for personal use
+Automating installation of Ubuntu LTS for personal use
